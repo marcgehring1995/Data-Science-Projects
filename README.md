@@ -1,2 +1,2 @@
 # Data-Science-Projects
-Examples of a few Data Science projects in the past
+Within the last years I focused especially on the innovation of business models. Through my work in portfolio management I recognized the need for data science in the business environment and the opportunities it offers. The projects were created for lectures and are mostly based on Kaggle Competitions. The projects, which were carried out independently with customers, can unfortunately not be published due to data security. 
